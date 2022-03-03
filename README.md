@@ -1,3 +1,9 @@
-Never stop learning----
+Repository for C concepts
 
-Repo for self learning
+-->Data Types
+-->Functions
+-->Structures
+-->Pointers
+-->Stacks
+-->Queues
+s
