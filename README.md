@@ -1,6 +1,7 @@
 Repository for C concepts
 
--->Data Types
+-->Data Types  
+
 -->Functions
 -->Structures
 -->Pointers
