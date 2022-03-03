@@ -6,4 +6,3 @@ Repository for C concepts
 -->Pointers
 -->Stacks
 -->Queues
-s
